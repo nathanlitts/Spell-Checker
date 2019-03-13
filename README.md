@@ -7,5 +7,5 @@ Next, the user is promted to type a word and I check to see if the word is in th
 If the word is not found, words that are spelled differently by one letter are suggested.
 
 To run this, I used:  
-javac *.java
+javac *.java \n
 java SpellChecker
