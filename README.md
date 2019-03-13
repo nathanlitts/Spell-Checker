@@ -5,3 +5,7 @@ StringSet is a hash-based set that can store strings and quickly look them up.
 SpellChecker is the driver application. It loads an entire dictionary into my StringSet.
 Next, the user is promted to type a word and I check to see if the word is in the set.
 If the word is not found, words that are spelled differently by one letter are suggested.
+
+To run this, I used:  
+javac *.java
+java SpellChecker
