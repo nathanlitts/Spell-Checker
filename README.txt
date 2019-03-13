@@ -9,3 +9,5 @@ If the word is not found, words that are spelled differently by one letter are s
 To run this, I used:  
 javac *.java
 java SpellChecker
+
+CTRL + C to stop.
